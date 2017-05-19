@@ -13,7 +13,7 @@
     "contributors": "contributors -f plain -o AUTHORS"
   },
   "dependencies": {
-    "urllib": "~2.2.1"
+    "urllib": "~2.11.0"
   },
   "devDependencies": {
     "autod": "*",
@@ -35,7 +35,9 @@
     "email": "fengmk2@gmail.com"
   },
   "keywords": [
-    "npm-user-service", "user-service", "cnpm"
+    "npm-user-service",
+    "user-service",
+    "cnpm"
   ],
   "engines": {
     "node": ">= 0.11.14"
